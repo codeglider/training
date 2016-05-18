@@ -2,6 +2,12 @@ variable "atlas_username" {}
 variable "atlas_token" {}
 variable "atlas_environment" {}
 
+hjjkfd
+
+sdfkdslflkdjs
+
+sdfdfds
+
 resource "aws_instance" "web" {
   count = 3
   ami   = "${lookup(var.aws_amis, var.aws_region)}"
