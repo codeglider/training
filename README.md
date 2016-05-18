@@ -167,5 +167,6 @@ Tearing it all down
   will still need to confirm the plan in order to apply the changes
 1. Once that apply is finished, you can check in the AWS console and see that
   all the resources have been destroyed
+
 1. Back on the settings page, you can optionally delete all of Atlas' metadata
   about the environment by clicking the red "Delete from Atlas" button
